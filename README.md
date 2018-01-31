@@ -20,5 +20,5 @@ The repository contains some documentation and two designs:
 
 ## Authors
 
-* **Victor Benichoux** - * electronics and software * - Researcher at [Institut Pasteur](https://research.pasteur.fr/en/member/victor-benichoux/). Contact me if you are interested in this project.
-* **Albane Imbert** - * case design * - Head of the [fab lab](https://research.pasteur.fr/en/team/fab-lab/) at Institut Pasteur.
+* **Victor Benichoux** - *electronics and software* - Researcher at [Institut Pasteur](https://research.pasteur.fr/en/member/victor-benichoux/). Contact me if you are interested in this project.
+* **Albane Imbert** - *case design* - Head of the [fab lab](https://research.pasteur.fr/en/team/fab-lab/) at Institut Pasteur.
