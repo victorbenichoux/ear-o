@@ -1,6 +1,7 @@
 <p align="center">
 <img src="/logo/ear-o_logo.png" title="Github Logo" width=150>
 </p>
+
 # Project
 
 This project describes a hearing device that can be used as a tool for embedded digital signal processing. It is based on the Ezairo chip series by ON Semi.
