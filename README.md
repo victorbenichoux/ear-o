@@ -1,4 +1,7 @@
-# ear-o
+
+<img src="/logo/ear-o_logo.png" title="Github Logo" width=150>
+
+# Project
 
 This project describes a hearing device that can be used as a tool for embedded digital signal processing. It is based on the Ezairo chip series by ON Semi.
 
@@ -16,4 +19,4 @@ The repository contains some documentation and two designs:
 
 ## Authors
 
-* **Victor Benichoux** - Researcher at [Institut Pasteur](https://research.pasteur.fr/en/member/victor-benichoux/)
+* **Victor Benichoux** - Researcher at [Institut Pasteur](https://research.pasteur.fr/en/member/victor-benichoux/). Contact me if you are interested in this project.
